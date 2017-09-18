@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Just a string";
+var truth = "Just not a typical num - cB";
